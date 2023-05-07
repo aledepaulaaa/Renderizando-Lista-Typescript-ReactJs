@@ -31,12 +31,12 @@ export default function Home(props: IUseHome) {
                 </Typography>
                 <Grid item xs={12} display={'flex'} alignItems={'center'} flexDirection={'column'} justifyContent={'center'}>
                     <TabContext value={value}>
-                        <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
+                        <Grid item xs={12}>
                             <TabList onChange={handleChange} aria-label="lab API tabs example">
                                 <Tab label="Pendentes" value="1" />
                                 <Tab label="Confirmados" value="2" />
                             </TabList>
-                        </Box>
+                        </Grid>
                         {value === "1" &&
                             <List
                                 value={value}

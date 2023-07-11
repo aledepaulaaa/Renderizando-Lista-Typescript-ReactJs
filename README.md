@@ -10,10 +10,7 @@
   2 - npm install @mui/material @emotion/react @emotion/styled
 </li>
 <li>
-  3 - npm install
-</li>
-<li>
-  4 - npm run dev
+  3 - npm install (se precisar npm install @mui/material @emotion/react @emotion/styled)
 </li>
 <hr>
 <h1>Como disse, é bem simples, só pra vias de estudo mesmo e refrescar a memória!</h1>

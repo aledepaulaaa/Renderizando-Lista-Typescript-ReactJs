@@ -4,6 +4,9 @@
 <h2>Para rodar este projeto é simples 🛠:</h2>
 <hr>
 <li>
+  1 - clone o repositório
+</li>
+<li>
   2 - npm install
 </li>
 <li>

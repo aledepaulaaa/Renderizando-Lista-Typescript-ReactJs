@@ -4,10 +4,7 @@
 <h2>Para rodar este projeto é simples 🛠:</h2>
 <hr>
 <li>
-  1 - npx create-next-app@latest --typescript
-</li>
-<li>
-  2 - npm install (se precisar npm install @mui/material @emotion/react @emotion/styled)
+  2 - npm install
 </li>
 <li>
   3 - npm run dev
